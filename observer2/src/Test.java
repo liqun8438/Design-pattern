@@ -10,6 +10,7 @@ public class Test {
 		
 		JFrame frame = new MyFrame(new Data());
 		System.out.println("good!!!!");
+		System.out.println("very good!!!!");
 		
 		
 	}
