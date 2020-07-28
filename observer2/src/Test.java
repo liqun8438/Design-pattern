@@ -9,7 +9,7 @@ public class Test {
 		//MyFrame f=new MyFrame();
 		
 		JFrame frame = new MyFrame(new Data());
-		
+		System.out.println("good!!!!");
 		
 		
 	}
